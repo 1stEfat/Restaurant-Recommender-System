@@ -58,3 +58,6 @@ From the responses stored in `data/feedback.csv`, we tracked:
 ## 6. Conclusion
 
 The initial version of the restaurant recommender performs well in relevance and usability. Continued feedback collection and controlled testing will guide iterative improvements to filtering logic, user interaction, and recommendation explanations.
+
+
+## streamlit link : https://restaurant-recommender-system.streamlit.app/
